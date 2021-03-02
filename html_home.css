@@ -1,0 +1,129 @@
+body {
+	background-color: white;
+}
+
+#maincontainer {
+	background-color: orange;
+	width: 800px;
+	margin: auto;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+#container {
+	background-color: white;
+	margin: auto;
+	width: 700px;
+}
+
+#menu {
+	position: relative;
+	margin: auto;
+	bottom: 10px;
+	padding-top: 80px;
+}
+
+#menu ul li {
+	display: inline;
+	list-style: none;
+	padding-left: 10px;
+}
+
+#menu ul li a:link, #menu ul li a:active, #menu ul li a:visited {
+	color: black;
+	text-decoration: none;
+}
+
+#menu ul li a:hover {
+	color: lightgreen;
+}
+
+.logo h1{
+	position: relative;
+	bottom: 130px;
+	text-align: right;
+	color: orange;
+	padding-top: 30px;
+	padding-right: 30px;
+}
+
+.logo p{
+	color: orange;
+	position: relative;
+	bottom: 150px;
+	text-align: right;
+	padding-right: 30px;
+}
+
+.image1 {
+	background-image: url("photo_header.jpg");
+	height: 278px;
+	width: 700px;
+	position: relative;
+	bottom: 140px;
+	margin: auto;
+}
+
+.image1 h1 {
+	position: relative;
+	top: 150px;
+	left: 170px;
+	font-size: 60px;
+}
+
+.content h2 {
+	color: orange;
+	position: relative;
+	bottom: 145px;
+	left: 30px;
+}
+
+.image2 {
+	background-image: url("images_tree.jpg");
+	position: relative;
+	background-repeat: no-repeat;
+	width: 150px;
+	height: 150px;
+	bottom: 150px;
+	left: 520px;
+	border: dotted 2px black;
+}
+
+.content2 p {
+	position: relative;
+	bottom: 300px;
+	left: 30px;
+}
+.list {
+	position: relative;
+	bottom: 300px;
+}
+
+.content3 p {
+	position: relative;
+	bottom: 300px;
+	left: 30px;
+}
+
+#menu1 {
+	position: relative;
+	margin: auto;
+	bottom: 10px;
+	padding-top: 80px;
+	margin-top: -380px;
+}
+
+#menu1 ul li {
+	display: inline;
+	list-style: none;
+	padding-left: 10px;
+}
+
+#menu1 ul li a:link, #menu ul li a:active, #menu ul li a:visited {
+	color: black;
+	text-decoration: none;
+}
+
+#menu1 ul li a:hover {
+	color: lightgreen;
+}
